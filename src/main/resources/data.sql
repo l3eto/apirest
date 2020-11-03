@@ -1,0 +1,9 @@
+--
+--	EMPLOYEES ALREADY EXISTING
+--
+
+INSERT INTO 
+	EMPLOYEE(NAME, SURNAME, BIRTHDATE, SALARY) 
+VALUES
+  	('Pepito','Fulano', '1992-07-23', 599.99),
+  	('Manolo','Mengano', '1993-02-11', 1200.00);
